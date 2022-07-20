@@ -44,15 +44,6 @@ a {
     color: #ffffff;
 }
 
-/* || Main background image input and formatting */
-.marketing-meeting {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
-}
-
 /* || Main article text and image formatting */
 article {
     margin-bottom: 20px;
@@ -96,6 +87,15 @@ h4 {
 }
 
 /* || Classes */
+/* || Main background image formatting */
+.marketing-meeting {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
 /* || Color change for the 'seo' in the header h1 */
 .seo {
     color: #d9dcd6;
